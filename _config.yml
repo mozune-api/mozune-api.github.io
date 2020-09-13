@@ -5,7 +5,8 @@ show_drafts: false
 title: ねねボタン
 email: nenebutton [at] gmail [dot] com ([at]と[dot]は適切に置き換えてください)
 description: >- # this means to ignore newlines until "baseurl:"
-  桃鈴ねねさんの非公式ファンサイトです。
+  <p>桃鈴ねねさんの配信からいつも元気をもらっています。ありがとう！</p>
+  <p>このサイトは非公式サイトです。</p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mozune-api
@@ -13,6 +14,6 @@ github_username:  mozune-api
 repository: mozune-api/mozune-api.github.io
 
 # Build settings
-theme: - 
+theme: 
 plugins:
   - jekyll-feed
